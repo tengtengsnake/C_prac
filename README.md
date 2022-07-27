@@ -7,6 +7,7 @@
 + C 語言編譯與執行過程:  
 + ![](https://static.javatpoint.com/cpages/images/compilation-process-in-c2.png)
 + #include (pre-processor directive) 前置處理器    #include<stdio.h>,裡面stdio.h 就做header 標頭檔  
++ #define(巨集指令),#define 可將常用常數字串替換成自訂識別名稱,使用#define好處是more readable
 + 程式的規劃與實作:  
 1.規劃程式  
 ![flowchar symbols](https://uploads-ssl.webflow.com/6184b461a39ff13bfb8c0556/61de99e8171cc6468145551d_flowchart-symbols-800.png)  
