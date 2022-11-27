@@ -1,4 +1,5 @@
 # [C_prac](https://www.javatpoint.com/star-program-in-c)    
++ 編譯 `gcc <SRC_NAME>` 可以輸出a.out，也可用`gcc <SRC_NAME> -o <BIN_NAME>`輸出執行檔為BIN_NAME
 + C 語言可攜性佳(porability),很像java 說的跨平台(cross platform)  
 + 程式寫好後,叫做source code,必須透過轉換器轉成機器看得懂的語言叫做machine code  
 + 轉換器有兩種:  
